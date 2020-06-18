@@ -1,12 +1,12 @@
 # LaravelExtends  
-### 環境
+## 環境
 Laravel：Laravel Framework 6.18.20  
 PHP：7.4  
 Vue.js：12.18.1 LTS  
 Three.js：r117  
   
 ### 環境構築
----
+
 　1.Homebrewインストール(Composerインストール用)  
  　　https://brew.sh/index_ja  
 　　　→正常にインストールできたか怪しかったら「brew -v」で確認  
@@ -27,14 +27,13 @@ Three.js：r117
 　　(terminal)php artisan serve  
 　　　(ブラウザ)localhost:8000  
   
----
-　・Vue.js  
-　　https://nodejs.org/ja/  
+　5.Vue.js  
+　　5.1.https://nodejs.org/ja/  
 　　　→インストーラーをダウンロードしてインストール  
 
-　　(terminal)npm install   
+　　5.2(terminal)npm install   
 
-・Three.js  
+　6.Three.js  
 　　(terminal)npm install three.js vue  
 
 ### git cloneで環境構築
