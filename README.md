@@ -2,8 +2,8 @@
 # 環境
 Laravel：Laravel Framework 6.18.20  
 PHP：7.4  
-Vue.js：  
-Three.js：  
+Vue.js：12.18.1 LTS  
+Three.js：r117  
   
 # 環境構築
 ---
@@ -29,8 +29,21 @@ Three.js：
   
 ---
 　・Vue.js  
-　・Three.js  
+　　https://nodejs.org/ja/  
+　　　→インストーラーをダウンロードしてインストール  
+
+　　(terminal)npm install   
+
+・Three.js  
+　　(terminal)npm install three.js vue  
 
 # ディレクトリ構成
 　https://qiita.com/shosho/items/93cbff79376c41c3a30b  
-　　→
+　　→これがめっちゃわかりやすい
+
+
+
+
+
+
+
