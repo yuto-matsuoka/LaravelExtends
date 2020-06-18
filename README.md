@@ -5,8 +5,8 @@ PHP：7.4
 Vue.js：  
 Three.js：  
   
-# 環境構築手順
-
+# 環境構築
+---
 　1.Homebrewインストール(Composerインストール用)  
  　　https://brew.sh/index_ja  
 　　　→正常にインストールできたか怪しかったら「brew -v」で確認  
@@ -31,5 +31,6 @@ Three.js：
 　・Vue.js  
 　・Three.js  
 
-# 初期パッケージ構成
-
+# ディレクトリ構成
+　https://qiita.com/shosho/items/93cbff79376c41c3a30b  
+　　→
