@@ -5,7 +5,7 @@ PHP：7.4
 Vue.js：12.18.1 LTS  
 Three.js：r117  
   
-### 環境構築
+## 環境構築
 
 　1.Homebrewインストール(Composerインストール用)  
  　　https://brew.sh/index_ja  
@@ -36,12 +36,12 @@ Three.js：r117
 　6.Three.js  
 　　(terminal)npm install three.js vue  
 
-### git cloneで環境構築
+## git cloneで環境構築
 　1.clone  
 　2.composer install  
 　3.「.env」作成　　←「.env.example」を参考に（最初はコピーするだけでも大丈夫）  
 
-### ディレクトリ構成
+## ディレクトリ構成
 　https://qiita.com/shosho/items/93cbff79376c41c3a30b  
 　　→これがめっちゃわかりやすい
 
