@@ -40,6 +40,11 @@ Three.js：r117
 　1.clone  
 　2.composer install  
 　3.「.env」作成　　←「.env.example」を参考に（最初はコピーするだけでも大丈夫）  
+　4.(terminal)php artisan key:generate　←「.env」のAPP_KEYを発行してくれる。  
+　5.(terminal)npm install  
+　6.(terminal)npm install three.js vue  
+　7.(terminal)php artisan serve  
+　8.(ブラウザ)localhost:8000  
 
 ## ディレクトリ構成
 　https://qiita.com/shosho/items/93cbff79376c41c3a30b  
